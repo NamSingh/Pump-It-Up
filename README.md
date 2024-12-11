@@ -1,7 +1,6 @@
-Here’s a GitHub README for your DrivenData "Pump It Up" competition project:
 # Pump It Up: Data Mining the Water Table - DrivenData Competition
 
-This repository contains my submission for the DrivenData "Pump It Up: Data Mining the Water Table" competition. The challenge involves predicting the operational status of water pumps in Tanzania using machine learning. By leveraging historical data, this project builds a model to classify pumps as functional, non-functional, or needing repair, providing actionable insights for better water management and infrastructure planning. The final results of running this ML Ensemble Model (using Random Forest, XGBoost, and CatBoost), will be an excel sheet that can be submitted into the competition.
+This repository contains my submission for the DrivenData "Pump It Up: Data Mining the Water Table" competition. The challenge involves predicting the operational status of water pumps in Tanzania using machine learning. By leveraging historical data, this project builds a model to classify pumps as functional, non-functional, or needing repair, providing actionable insights for better water management and infrastructure planning. The final results of running this ML Ensemble Model (using Random Forest, XGBoost, and CatBoost), will be an excel sheet that can be submitted into the competition. To download the data required for this Model, please see the [DrivenData Competition Site](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
 
 ## 🌍 **Business Value**
 
