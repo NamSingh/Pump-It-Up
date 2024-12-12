@@ -38,6 +38,11 @@ This project showcases the application of machine learning to real-world problem
 
 ## 🔎 **What the Code Does**
 
+There are two versions of the code:
+
+- To run the classification system, use the [src/ClassificationSystem.ipynb](src/ClassificationSystem.ipynb) file.
+- If you want to use the [src/ClassificationSystem_WithOutputs.ipynb](src/ClassificationSystem_WithOutputs.ipynb) file, you may need to download it first (instead of viewing directly on GitHub) due to the file size.
+
 The project is organized into the following key components:
 
 1. **Data Preprocessing**:  
